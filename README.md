@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Kashif from Pakistan and i am a full-stack developer and programmer. I really enjoy learning languages, frameworks and libraries. I love Js for front-end and back-end development. I have experience writing mobile apps in flutter, machine learning models, Blochchain smart-contracts, Cloud storage in Firebase, AWS and Wordpress CMS. I like to write clean code using TDD, BDD, DDD, Scrum and Agile patterns of development. You can check out my tweets at https://twitter.com/RkashShahzad and my instagram stories at https://www.instagram.com/kashisdesire
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KashShahzad)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KashShahzad/KashShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
