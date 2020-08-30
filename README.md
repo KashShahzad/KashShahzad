@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kashif from Pakistan and i am a full-stack developer and programmer. I really enjoy learning languages, frameworks and libraries. I love Js for front-end and back-end development. I have experience writing mobile/web apps, machine learning models, Blochchain smart-contracts, Cloud Computing, CMS, testing and deployment. I like to write clean code using TDD, BDD, DDD, Scrum and Agile patterns of development. You can check out my tweets at https://twitter.com/RkashShahzad and my instagram stories at https://www.instagram.com/kashisdesire
+I'm Kashif from Pakistan and i am a full-stack developer/programmer. I really enjoy learning languages, frameworks and libraries. I love Js for front-end and back-end development. I have experience writing mobile/web apps, machine learning models, Blochchain smart-contracts, Cloud Computing, CMS, testing and deployment. I like to write clean code using TDD, BDD, DDD, Scrum and Agile patterns of development. You can check out my tweets at https://twitter.com/RkashShahzad and my instagram stories at https://www.instagram.com/kashisdesire
 
 - 🔭 I’m currently working on My own Startup
 - 🌱 I’m currently learning Scala and Golang
