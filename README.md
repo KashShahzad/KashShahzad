@@ -6,4 +6,4 @@ I'm Kashif from Pakistan and i am a full-stack developer/programmer. I really en
 - 🌱 I’m currently learning Scala and Golang
 - 👯 I’m looking to collaborate on deep learning models
 - 📫 How to reach me: shahzad@kashinnov.com
-- ⚡ Fun fact: Earth is round, huh!!
+- ⚡ Fun fact: Humans are somehow similar to ML model, tunned with different parameters #WestWorld !!
