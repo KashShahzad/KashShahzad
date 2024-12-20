@@ -5,4 +5,4 @@ I am a JavaScript Programmer from Pakistan. I have Experience in the development
 - 🔭 I’m currently working on SaaS projects
 - 🌱 I’m currently learning AI, especially Generative AI
 - 👯 I’m looking to collaborate on product design
-- 📫 How to reach me: contact@kashifshahzad.me
+- 📫 How to reach me: r.kashifshahzad@outlook.com
